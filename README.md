@@ -10,4 +10,4 @@ MainActivity:
 Implements ChipGroup for filtering and displays the filtered mobile list in RecyclerView.
 
 ## Demo Video
-[![Demo](https://drive.google.com/file/d/1aD2MjxsTXQ2FUg5s1wt0AlfURgbh-0wg/view?usp=sharing)
+[![Demo]([https://drive.google.com/file/d/1aD2MjxsTXQ2FUg5s1wt0AlfURgbh-0wg/view?usp=sharing](https://drive.google.com/file/d/1aD2MjxsTXQ2FUg5s1wt0AlfURgbh-0wg/view))
